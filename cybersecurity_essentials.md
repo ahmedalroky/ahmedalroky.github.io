@@ -10,32 +10,32 @@ In this training course, we will study the basics required to get started in the
 
 ## content 
 
-├───0x00 - Operating systems</br>
-│   ├───000 - intro</br>
-│   ├───001 - WINDOWS BATCH SCRIPT  COURSE</br>
-│   ├───002 - LINUX essentials COURSE</br>
-├───0x01 - Virtualization</br>
-│   ├───000 - intro</br>
-│   ├───001 - Virtualbox</br>
-│   └───002 - Docker</br>
-├───0x02 - Cryptography</br>
-│   ├───001 - CRYPTING</br>
-│   ├───002 - ENCODING</br>
-│   └───003 - HASHING</br>
-├───0x03 - Networking</br>
-├───0x04 - Programming</br>
-│   ├───001 - HTML AND JAVASCRIPT</br>
-│   ├───002 - PHP & MYSQL</br>
-│   └───003 - PYTHON</br>
+├───0x00 - Operating systems  
+│   ├───000 - intro  
+│   ├───001 - WINDOWS BATCH SCRIPT  COURSE  
+│   ├───002 - LINUX essentials COURSE  
+├───0x01 - Virtualization  
+│   ├───000 - intro  
+│   ├───001 - Virtualbox  
+│   └───002 - Docker  
+├───0x02 - Cryptography  
+│   ├───001 - CRYPTING  
+│   ├───002 - ENCODING  
+│   └───003 - HASHING  
+├───0x03 - Networking  
+├───0x04 - Programming  
+│   ├───001 - HTML AND JAVASCRIPT  
+│   ├───002 - PHP & MYSQL  
+│   └───003 - PYTHON  
 
 ## More info
-Language : Arabic</br>
-Duration : 48 Hours, 8 Hours each week</br>
-Method : Online</br>
+Language : Arabic  
+Duration : 48 Hours, 8 Hours each week  
+Method : Online  
 
 ## To enroll contact me at :
 
-Telegram : b4db0t</br>
-whatsapp : +201021219828</br>
-Discord : zcool2019#9754</br>
+Telegram : b4db0t  
+whatsapp : +201021219828  
+Discord : zcool2019#9754  
 [Facebook](https://www.facebook.com/alroky1)
