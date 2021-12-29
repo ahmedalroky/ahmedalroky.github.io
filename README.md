@@ -7,6 +7,7 @@ My name  is  ahmed  alroky , in this blog i will publish my own writeups, tutori
 
 [Paid content](paid)
 
+[Hardware hacking slides](https://github.com/ahmedalroky/Hardware-Hacking)
 
 ### Contact me :
 Telegram : b4db0t
