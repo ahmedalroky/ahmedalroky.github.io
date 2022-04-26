@@ -14,7 +14,7 @@ Offensive Cyber Security Researcher at KOIN Network<br>
 
 [Hardware hacking slides](https://github.com/ahmedalroky/Hardware-Hacking)
 
-### Contact me :
-Telegram : b4db0t
-Discord : zcool2019#9754
-Twitter : B4db0tBot
+### Contact me :<br><br>
+Telegram : b4db0t<br>
+Discord : zcool2019#9754<br>
+Twitter : B4db0tBot<br>
