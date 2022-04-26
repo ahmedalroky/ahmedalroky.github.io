@@ -1,11 +1,16 @@
-## Welcome to my blog
-My name  is  ahmed  alroky , in this blog i will publish my own writeups, tutorials, paid and free content
+## Hi There 👋
+My name  is  ahmed  alroky 👨‍💻,
+Cyber Security Specialist at AIactive technologies
+Offensive Cyber Security Researcher at KOIN Network
+<br>
+<br>
+[Writeups ✍️](writeup)
 
-[Writeups](writeup)
+[Youtube Channel 🎞](https://www.youtube.com/ahmedalroky)
 
-[Tutorials](soon)
+[Linkedin](https://www.linkedin.com/in/ahmedalroky/)
 
-[Paid content](paid)
+[FB](https://www.facebook.com/alroky1)
 
 [Hardware hacking slides](https://github.com/ahmedalroky/Hardware-Hacking)
 
